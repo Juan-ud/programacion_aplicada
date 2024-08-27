@@ -1,0 +1,56 @@
+[
+  {
+    "brazo": {
+      "base": {
+        "nombre": "Base",
+        "dimensiones": {
+          "ancho": 0.45,
+          "alto": 0.2,
+          "profundidad": 0.45
+        }
+      },
+      "hombro": {
+        "nombre": "Hombro",
+        "dimensiones": {
+          "ancho": 0.05,
+          "alto": 0.6,
+          "profundidad": 0.05
+        }
+      },
+      "codo": {
+        "nombre": "Codo",
+        "dimensiones": {
+          "ancho": 0.05,
+          "alto": 0.8,
+          "profundidad": 0.05
+        }
+      },
+      "antebrazo": {
+        "nombre": "Antebrazo",
+        "dimensiones": {
+          "ancho": 0.05,
+          "alto": 0.8,
+          "profundidad": 0.05
+        }
+      },
+      "muneca": {
+        "nombre": "Muñeca",
+        "dimensiones": {
+          "ancho": 0.1,
+          "alto": 0.01,
+          "profundidad": 0.1
+        }
+      },
+      "mano": {
+        "nombre": "Mano",
+        "dimensiones": {
+          "radio_mayor": 0.1,
+          "radio_menor": 0.01,
+          "segmentos_radio": 3,
+          "segmentos_tubo": 9,
+          "angulo_arco": 5.6
+        }
+      }
+    }
+  }
+]
